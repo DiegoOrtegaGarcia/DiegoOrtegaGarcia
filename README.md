@@ -10,6 +10,8 @@ Cada día busco perfeccionar mis conocimientos, aplicar las **mejores prácticas
 
 Aunque tengo mis preferencias, me adapto con facilidad y también trabajo proficientemente con otras tecnologías como **Vue.js, ASP.NET, C# y más**, porque creo que un buen desarrollador debe ser versátil y siempre abierto a nuevas herramientas y desafíos.
 
+Mi Portafolio:https://diego-portfolio-delta.vercel.app/
+
 ---
 
 ## 🛠️ Tecnologías que domino
